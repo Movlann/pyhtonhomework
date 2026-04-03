@@ -1,0 +1,3 @@
+tuple1 = (1, 3, 2, 1, 5, 1, 1)
+s = tuple1.count(3)
+print(s)

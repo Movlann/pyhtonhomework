@@ -1,0 +1,8 @@
+tuple = (3)
+print(tuple)
+a = type(tuple)
+print(a)
+tuple1 = (3,)
+print(tuple1)
+b = type(tuple1)
+print(b)

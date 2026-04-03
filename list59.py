@@ -1,0 +1,3 @@
+list = [2, 4, 6, 7, 8, 10]
+list.remove(7)
+print(list)
